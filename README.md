@@ -1,6 +1,7 @@
 # MinecraftServer-MMAN
 
 1.) Run the command docker compose up
+<<<<<<< HEAD
 
 
 
@@ -13,3 +14,6 @@ managed to run the server through docker however, server was overload and ultima
 Crash report:
 ---- Minecraft Crash Report ----
 // Ouch. That hurt :(
+=======
+2.) Create an ec2 instance on AWS
+>>>>>>> cd0103082846e64f0ab3e93a948c7aeafc65a8f5
