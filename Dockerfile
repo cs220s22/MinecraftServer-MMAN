@@ -3,7 +3,7 @@ FROM adoptopenjdk:16-jre
 
 ARG RAM_AMOUNT
 
-ENV ram=1G
+ENV ram=${RAM_AMOUNT}
 
 WORKDIR /server
 
