@@ -5,7 +5,7 @@ services:
     build:
       context: .
       args: 
-        RAM_AMOUNT: 1G
+        RAM_AMOUNT: ${RAM_AMOUNT}
     volumes:
       - .server-data:/server
     ports:
