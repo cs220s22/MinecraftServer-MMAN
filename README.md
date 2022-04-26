@@ -1,10 +1,11 @@
 # MinecraftServer-MMAN
 
-<<<<<<< HEAD
-1.) Run the command docker compose up
-<<<<<<< HEAD
+How to run the Mincraft Server through Docker:
 
+1.) Open the terminal and make sure you're in MinecraftServer-MMAN.
+2.) Run the command docker compose up
 
+# When ran error occurs
 
 PROGRESS:
 managed to run the server through docker however, server was overload and ultimatly crashed
@@ -16,17 +17,8 @@ Crash report:
 ---- Minecraft Crash Report ----
 // Ouch. That hurt :(
 =======
-2.) Create an ec2 instance on AWS
->>>>>>> cd0103082846e64f0ab3e93a948c7aeafc65a8f5
-=======
-How to run a docker Minecraft server:
- 
-1.) In the terminal make sure you are in the MinecraftServer-MANN directory.
-
-2.) Run the command docker compose up
-
 
 Next:
 
-Create an ec2 instance on AWS
->>>>>>> 1937c3a0f060dc6e0f3bbd75a43fda9b08aa9176
+3.) Create an ec2 instance on AWS
+
