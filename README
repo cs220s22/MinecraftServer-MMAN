@@ -17,6 +17,15 @@ Crash report:
 ---- Minecraft Crash Report ----
 // Ouch. That hurt :(
 =======
+<<<<<<< HEAD
+increased the ram and then this error
+[+] Running 1/1
+ ⠿ Container minecraft-docker-tutorial  Recreated                                                            0.4s
+Attaching to minecraft-docker-tutorial
+minecraft-docker-tutorial  | Docker Minecraft server is starting
+minecraft-docker-tutorial  | 
+minecraft-docker-tutorial  | Error: Unable to access jarfile paper-1.17.1-408.jar
+minecraft-docker-tutorial exited with code 1
         
 When trying to run the server on an ec2 instance
 
